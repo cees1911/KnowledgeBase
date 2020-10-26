@@ -1,0 +1,11 @@
+// const resources = JSON.parse(
+//   fs.readFileSync(`${__dirname}/../data/resources.json`)
+// );
+// code als je gebruik wil maken van een file inplaats van de DB
+// moet je wel fs require doen
+
+
+
+.card-container
+        
+            .resource__card

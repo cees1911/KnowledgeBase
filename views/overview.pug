@@ -1,0 +1,17 @@
+extends base
+
+block content
+    main
+        .maincontent
+            p Een overzicht van de resources die ik gebruik bij het bouwen van mijn projecten. </br>  Voor dit project heb ik in Nodejs een Restfull API geprogrammerd die een MongoDB collection queried
+
+        .card-container
+
+            each resource in resources
+                .resource__card
+                    img.card__img(src=`img/${resource.onderwerp}.png` alt=`${resource.onderwerp}`)
+                    h2.recource__name=resource.name
+                    .card__data
+                        svg.resource__type
+                            use(xlink:href=`img/sprite.svg#${resource.type}`)
+                        a.resource__link(href=resource.link target='_blank')=resource.linkText

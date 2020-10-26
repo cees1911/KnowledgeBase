@@ -1,0 +1,134 @@
+[
+  {
+    "onderwerp": "HTML5",
+    "type": "website",
+    "name": "W3Schools",
+    "link": "https://www.w3schools.com/",
+    "summary": ""
+  },
+  {
+    "onderwerp": "React",
+    "type": "video",
+    "name": "React Router",
+    "link": "https://www.youtube.com/watch?v=Law7wfdg_ls",
+    "summary": ""
+  },
+  {
+    "onderwerp": "Tools",
+    "type": "website",
+    "name": "Subtle Patterns",
+    "link": "https://www.toptal.com/designers/subtlepatterns/",
+    "summary": ""
+  },
+  {
+    "onderwerp": "CSS3",
+    "type": "video",
+    "name": "Learn CSS Grid",
+    "link": "https://scrimba.com/course/gR8PTE",
+    "summary": ""
+  },
+  {
+    "onderwerp": "CSS3",
+    "type": "video",
+    "name": " CSS Media Queries",
+    "link": "https://www.youtube.com/watch?v=2KL-z9A56SQ",
+    "summary": ""
+  },
+  {
+    "onderwerp": "React",
+    "type": "video",
+    "name": "Learn React",
+    "link": "https://scrimba.com/course/glearnreact/",
+    "summary": ""
+  },
+  {
+    "onderwerp": "Javascript",
+    "type": "website",
+    "name": "MDN web docs",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "summary": ""
+  },
+  {
+    "onderwerp": "Tools",
+    "type": "website",
+    "name": "Postman",
+    "link": "https://www.postman.com/",
+    "summary": ""
+  },
+  {
+    "onderwerp": "Tools",
+    "type": "website",
+    "name": "Pexels",
+    "link": "https://www.pexels.com/nl-nl/"
+  },
+  {
+    "onderwerp": "Tools",
+    "type": "website",
+    "name": "Font Awesome CDN",
+    "link": "https://www.bootstrapcdn.com/fontawesome/",
+    "summary": ""
+  },
+  {
+    "onderwerp": "CSS3",
+    "type": "Video",
+    "name": "Input Animations With CSS",
+    "link": "https://www.youtube.com/watch?v=IxRJ8vplzAo",
+    "summary": ""
+  },
+  {
+    "onderwerp": "React",
+    "type": "website",
+    "name": "Victory: modular charting",
+    "link": "https://formidable.com/open-source/victory/",
+    "summary": ""
+  },
+  {
+    "onderwerp": "CSS3",
+    "type": "website",
+    "name": "Clippy CSS Polygon",
+    "link": "https://bennettfeely.com/clippy/",
+    "summary": ""
+  },
+  {
+    "onderwerp": "Tools",
+    "type": "website",
+    "name": "Color Picker",
+    "link": "https://imagecolorpicker.com/en/",
+    "summary": ""
+  },
+  {
+    "onderwerp": "CSS3",
+    "type": "website",
+    "name": "Centering in CSS",
+    "link": "https://css-tricks.com/centering-css-complete-guide/",
+    "summary": ""
+  },
+  {
+    "onderwerp": "Tools",
+    "type": "website",
+    "name": "The Color Scheme Designer",
+    "link": "https://paletton.com/",
+    "summary": ""
+  },
+  {
+    "onderwerp": "CSS3",
+    "type": "website",
+    "name": "Cubic-Bezier",
+    "link": "https://cubic-bezier.com/",
+    "summary": ""
+  },
+  {
+    "onderwerp": "Tools",
+    "type": "website",
+    "name": "LunaPic: photo editing",
+    "link": "https://www9.lunapic.com/editor/",
+    "summary": ""
+  },
+  {
+    "onderwerp": "Tools",
+    "type": "website",
+    "name": "RoboHash",
+    "link": "https://robohash.org/",
+    "summary": ""
+  }
+]
